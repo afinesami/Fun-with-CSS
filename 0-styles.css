@@ -16,8 +16,8 @@ li {
     font-size: 30px;
     justify-content: center;
     flex-wrap: wrap;
-    height: 300px;
-    width: 180px;
+    height: 360px;
+    width: 220px;
     font-weight: bold;
     background-color: var(--color-light-grey);
     border: 2px solid grey;
@@ -25,20 +25,20 @@ li {
 }
 
 li span {
-    height: 300px;
-    width: 180px;
+    height: 360px;
+    width: 220px;
     background-image: url("images/d416199ca6ecdbd0f8a3.png");
-    background-size: 250%;
+    background-size: 300%;
 	background-repeat: no-repeat;
 }
 
 
 .i-css {
-    background-position: center 15px;
+    background-position: center 22px;
 }
 .i-html {
-    background-position: left 15px;
+    background-position: left 22px;
 }
 .i-js {
-    background-position: right 15px;
+    background-position: right 22px;
 }
